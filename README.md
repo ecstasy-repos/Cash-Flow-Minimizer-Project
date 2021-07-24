@@ -1,7 +1,7 @@
 # Cash-Flow-Minimizer
 
 ## Description
-This project helps us to minimize the cash flow between multiple people by reducing it to minimum number of transactions. This project used Vuejs2 for the frontend and Vis.js library as the visualisation library in javascript for creating the pleasing network structure as output.
+This project helps us **to minimize the cash flow between multiple people by reducing it to minimum number of transactions**. This project used **Vuejs2** for the frontend and **vis.js** library as the visualisation library in javascript for creating the pleasing network structure as output.
 Input is Number of transactions and for each transaction, input the Amount being transfered from former to latter person.
 Output is network graph that depicts the minimum cash-flow required for the input transactions.
 
